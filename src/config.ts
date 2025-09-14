@@ -3,11 +3,11 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://astro-chiri.netlify.app/', // Site domain
-    title: 'CHIRI', // Site title
-    author: '3ASH', // Author name
-    description: 'Minimal blog built by Astro', // Site description
-    language: 'en-US' // Default language
+    website: 'https://bernardvalentine.com/', // Site domain
+    title: 'VALENTINE', // Site title
+    author: 'Bernard Valentine', // Author name
+    description: 'Personal blog of Bernard Valentine', // Site description
+    language: 'en-GB' // Default language
   },
 
   // GENERAL SETTINGS ////////////////////////////////////////////////////////////////////////////////////
