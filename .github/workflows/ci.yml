@@ -39,7 +39,7 @@ jobs:
           cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile --prefer-offline
+        run: pnpm install --frozen-lockfile --prefer-offline --allow-scripts
 
       - name: Check formatting (if prettier is available)
         run: |
